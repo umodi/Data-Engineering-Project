@@ -1,0 +1,14 @@
+{
+  "hana":{
+    "env": "dev",
+    "source_system": "Hana-dataproc",
+    "config": "dev_operations.hana_config.table_mtdt",
+    "job_stat": "dev_operations.hana_events.job_run_stats",
+    "obj_stat": "dev_operations.hana_events.object_run_stats",
+    "job_metadata": "dev_operations.hana_config.job_mtdt",
+    "error_tab": "dev_operations.hana_events.error_log"
+  }
+  
+}
+
+ 
